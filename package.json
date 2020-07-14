@@ -1,0 +1,32 @@
+{
+  "name": "express-routes",
+  "version": "1.0.0",
+  "description": "Express in practice :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geekybugger/express-routes.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "backend",
+    "express"
+  ],
+  "author": "Krishnakumar V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geekybugger/express-routes/issues"
+  },
+  "homepage": "https://github.com/geekybugger/express-routes#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
